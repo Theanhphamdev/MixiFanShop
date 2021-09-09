@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "n8tpxtp",
+      "name": "Áo phông Mixi - Phòng streams",
+      "price": "250000",
+      "status": "1",
+      "category": "qak3wkn",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-797c1.appspot.com/o/images%2FAo-phong-Mixi-Phong-Stream-scaled.jpg?alt=media&token=4e474732-7150-484e-aaac-6b8ab1a3fa9d"
+    },
+    {
+      "id": "qwoyd44",
+      "name": "Bình giữ nhiệt Fan cứng Mixi",
+      "price": "199000",
+      "status": "1",
+      "category": "m8px2lb",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-797c1.appspot.com/o/images%2Fbinh-giu-nhiet-mixi-scaled.jpg?alt=media&token=dac40222-3e17-4903-adc3-ac155cb73e79"
+    },
+    {
+      "id": "m4hv7v",
+      "name": "Áo ba lỗ Mixi - SLA01",
+      "price": "200000",
+      "status": "1",
+      "category": "o5dor7",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-797c1.appspot.com/o/images%2FAo-ba-lo-Mixi-BVCBG-scaled.jpg?alt=media&token=b9e54304-d3db-4903-ba47-205e21703f94"
+    },
+    {
+      "id": "h4x630m",
+      "name": "Đồ chơi lắm ghép Tộc trưởng - Mixi",
+      "price": "270000",
+      "status": "1",
+      "category": "m8px2lb",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-797c1.appspot.com/o/images%2Flego-mixi-600x900.jpg?alt=media&token=d2c96b1c-ac8e-404c-b810-b595440400ba"
+    },
+    {
+      "id": "qhdj1sb",
+      "name": "Áo 3 lỗ Mixi - SLA02",
+      "price": "200000",
+      "status": "1",
+      "category": "o5dor7",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-797c1.appspot.com/o/images%2FAo-ba-lo-Mixi-QUAY-LEN-scaled.jpg?alt=media&token=b2a030e2-13da-4928-bbd0-1e12ce69c5e5"
+    },
+    {
+      "id": "nuic5l1h",
+      "name": "ÁO PHÔNG MIXI - TỘC TRƯỞNG",
+      "price": "250000",
+      "status": "1",
+      "category": "qak3wkn",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-797c1.appspot.com/o/images%2FAo-phong-Mixi-Toc-Truong-300x400.jpg?alt=media&token=707320f7-35e6-47d5-ad4d-32cd7e8bdd7d"
+    }
+  ],
+  "categories": [
+    {
+      "id": "m8px2lb",
+      "name": "Đồ Lưu niệm Mixi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-797c1.appspot.com/o/images%2Fv%C3%AD-mixi.jpg?alt=media&token=30ae3341-96ef-4f6c-a545-6a03c98b541e"
+    },
+    {
+      "id": "o5dor7",
+      "name": "Áo ba lỗ Mixi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-797c1.appspot.com/o/images%2FAo-ba-lo-Mixi-DUOC-EM-UI-scaled.jpg?alt=media&token=d80b9500-df9d-4218-b9ab-bf463b3df9d6"
+    },
+    {
+      "id": "tu5x9u",
+      "name": "Áo Refund Gaming",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-797c1.appspot.com/o/images%2Fphoto-1-15818844307331045340108-crop-15818867647181290307748.jpg?alt=media&token=92b41bd0-5298-4b8b-8f0b-86d60f69708a"
+    },
+    {
+      "id": "qak3wkn",
+      "name": "Áo Mixigaming",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-797c1.appspot.com/o/images%2FUntitled-Capture2525-scaled.jpg?alt=media&token=2e5dc111-ed63-40a5-8461-f0a7f77b1a2a"
+    }
+  ]
+}
