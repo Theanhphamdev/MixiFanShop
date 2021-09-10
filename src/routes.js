@@ -33,6 +33,9 @@ const Routes = (props) => {
                             <Route exact path="/admin/products">
                                 <ListProducts {...props} />
                             </Route>
+                            <Route exact path="/admin/products/:page">
+                                <ListProducts {...props} />
+                            </Route>
                             <Route exact path="/admin/products/add">
                                 <AddForm {...props} />
                             </Route>
